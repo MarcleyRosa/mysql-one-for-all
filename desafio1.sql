@@ -63,9 +63,9 @@ DROP DATABASE IF EXISTS SpotifyClone;
 
   INSERT INTO SpotifyClone.music (music_name, album_id, duration)
   VALUES
-    ('Break My Soul', 1, 279),
-    ('Virgo’s Groove', 1, 369),
-    ('Alien Superstar', 1, 116),
+    ('BREAK MY SOUL', 1, 279),
+    ('VIRGO’S GROOVE', 1, 369),
+    ('ALIEN SUPERSTAR', 1, 116),
     ('Don’t Stop Me Now', 2, 203),
     ('Under Pressure', 3, 152),
     ('Como Nossos Pais', 4,  105),
